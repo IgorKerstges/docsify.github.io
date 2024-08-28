@@ -2,10 +2,10 @@
 
 <!--lint ignore no-dead-urls-->
 
-# Energie Gemeinschaft Heuberg (EGH)
+# Igors notes in a personal wiki
 
-Überlegungen zur Sinnhaftigkeit der Einrichtung einer Erneuerbare-Energie-Gemeinschaft für den Bereich Heuberg in Dornbach, Wien.
+I keep notes of some of my frequently used -but often difficult to remember-  commands and configurations on various systems.
 
-<img width="500" src="./_media/egh_coverpage.avif" alt="logo of docsify-awesome repository">
+<img width="500" src="./_media/book-open-cover.svg" alt="Logo of Igor's personal wiki.">
 
 </div>
