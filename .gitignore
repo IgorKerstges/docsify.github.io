@@ -1,8 +1,2 @@
-# OS generated files #
-######################
-.DS_Store
-.DS_Store?
-.vscode
-.vscode?
-.obsidian
-.obsidian?
+# Ignore all files and subdirectories within the "node_modules" folder
+/node_modules/
