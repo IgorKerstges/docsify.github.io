@@ -1,11 +1,1 @@
-<div align="center">
-
-<!--lint ignore no-dead-urls-->
-
-# Igors notes in a personal wiki
-
-I keep notes of some of my frequently used -but often difficult to remember-  commands and configurations on various systems.
-
-<img width="500" src="./_media/open-book.png" alt="Logo of Igor's personal wiki.">
-
-</div>
+# This is a template site for a wiki site based on mardown language files.
