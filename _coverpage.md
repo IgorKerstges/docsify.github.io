@@ -6,6 +6,6 @@
 
 I keep notes of some of my frequently used -but often difficult to remember-  commands and configurations on various systems.
 
-<img width="500" src="./_media/book-open-cover.svg" alt="Logo of Igor's personal wiki.">
+<img width="500" src="./_media/open-book.png" alt="Logo of Igor's personal wiki.">
 
 </div>
